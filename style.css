@@ -1,0 +1,51 @@
+body{
+    background-size: contain;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    background-color: #c38fe1;
+    border-radius: 20px;
+    border: white solid 5px;
+    color: white;
+}
+
+#start{
+    font-size: 18px;
+    background-color:#e2baf0 ;
+    border-radius: 15px;
+    border: 5px white solid;
+}
+
+#number_of_objects{
+    font-size: 18px;
+    background-color:#e297ec ;
+    border-radius: 15px;
+    border: 5px white solid;
+}
+
+#status{
+    font-size: 18px;
+    background-color:#d797e7 ;
+    border-radius: 15px;
+    border: 5px white solid;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: #ffffff;
+    bottom: 0;
+    width: 100%;
+    background-color: #6c757d;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border: 2px solid white;
+    border-radius: 15px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
